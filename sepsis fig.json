@@ -1,6 +1,6 @@
 {
 	"file": "https://raw.githubusercontent.com/em-research/Sepsis-coding/master/test12.csv",
-	"name": “Sepsis test”,
+	"name": “Sepsistest”,
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
